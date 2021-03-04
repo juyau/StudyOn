@@ -1,0 +1,4 @@
+com/brothermiles/studyon/cms/service/PageService.class
+com/brothermiles/studyon/cms/CmsApplication.class
+com/brothermiles/studyon/cms/controller/CmsPageController.class
+com/brothermiles/studyon/cms/dao/CmsPageRepository.class
